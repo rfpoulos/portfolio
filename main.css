@@ -46,11 +46,12 @@ main {
 .about {
     padding: 1em;
 }
-picture {
-    order: 15px solid white;
-    border-radius: 100%;
-    margin-top: -140px;
-    width: 250px;
+.picture {
+    background: #f00;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: -20vh;
     float: right;
 }
 .portfolio {
